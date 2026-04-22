@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MySecureChat</string>
+    <string name="login">Login</string>
+    <string name="register">Don\'t have an account? Register</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="login_text">Already have an account? Login</string>
+    <string name="register_btn">Register and Login</string>
+    <string name="logout">Log Out</string>
+    <string name="btn_new_mess">New Message</string>
+</resources>
